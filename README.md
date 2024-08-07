@@ -10,11 +10,11 @@ In this exercise, pretend you’re a kindergarten teacher with an upcoming field
 - JSON file
 
 ## Skills Practiced:
--querySelector()
--fetch()
--JSON files
--async/await syntax
--append()
+- querySelector()
+- fetch()
+- SON files
+- async/await syntax
+- append()
 
 ## Starter Code
 This repository includes starter code to provide a foundation for building the program.
